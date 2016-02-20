@@ -1,0 +1,21 @@
+pane	11	0	:~/.tmux	1	:*	0	:/Users/bwong/.tmux	1	zsh	:
+pane	blog	0	:..nycwongdotcom	1	:*	0	:/Users/bwong/code/hugo/bennycwongdotcom	1	zsh	:
+pane	blog	0	:..nycwongdotcom	1	:*	1	:/Users/bwong/code/hugo/bennycwongdotcom	0	vim	:/usr/local/bin/vim config.toml
+pane	blog	1	:vim	0	:-	0	:/Users/bwong/code/hugo/bennycwongdotcom	1	vim	:/usr/local/bin/vim
+pane	cortex	0	:..de/dsc/cortex	0	:-	0	:/Users/bwong/code/dsc/cortex	0	vim	:/usr/local/bin/vim
+pane	cortex	0	:..de/dsc/cortex	0	:-	1	:/Users/bwong/code/dsc/cortex	1	zsh	:
+pane	cortex	1	:..de/dsc/cortex	1	:*	0	:/Users/bwong/code/dsc/cortex	1	zsh	:
+pane	cortex	1	:..de/dsc/cortex	1	:*	1	:/Users/bwong/code/dsc/cortex	0	zsh	:
+pane	dsc	0	:..ode/dev-box-3	1	:*	0	:/Users/bwong/code/dev-box-3	1	zsh	:
+pane	dsc	2	:~/code/face-web	0	:-	0	:/Users/bwong/code/face-web	0	zsh	:
+pane	dsc	2	:~/code/face-web	0	:-	1	:/Users/bwong/code/face-web	1	zsh	:
+pane	dsc	3	:vim	0	:	0	:/Users/bwong/code/face-web	1	vim	:/usr/local/bin/vim
+window	11	0	1	:*	5c72,180x81,0,0,32
+window	blog	0	1	:*	9f94,180x81,0,0[180x40,0,0,7,180x40,0,41,10]
+window	blog	1	0	:-	5c71,180x81,0,0,12
+window	cortex	0	0	:-	f9b2,180x81,0,0[180x56,0,0,23,180x24,0,57,26]
+window	cortex	1	1	:*	0333,180x81,0,0[180x40,0,0,24,180x40,0,41,25]
+window	dsc	0	1	:*	dc71,180x81,0,0,22
+window	dsc	2	0	:-	ce8b,180x81,0,0{90x81,0,0,19,89x81,91,0,20}
+window	dsc	3	0	:	dc70,180x81,0,0,21
+state	11	
